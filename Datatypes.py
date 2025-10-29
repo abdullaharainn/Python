@@ -1,9 +1,9 @@
-# strings (Values in Double "" or Single '' Qoutes)
+# strings (Values in Double "" or Single '' Quotes)
 string1 = "Hello!"
 string2 = 'Beautifull'
 string3= "Beoble :)"
 
-# Integers are the Whole Number (can be nagetive)
+# Integers are the Whole Number (can be negative)
 int1 = 10
 int2 = 20
 int3 = -30
@@ -18,6 +18,7 @@ online = True
 offline = False
 
 # None
+
 
 
 
