@@ -14,3 +14,15 @@ print(email)
 print(name, country, email)
 
 
+# Rules to write variables
+
+value = 1
+Value = 1
+_value = 1
+value_1 = 1
+val_ue = 1 
+
+# A variable name contains letters, digits, and underscores
+# A variable can only start with letters & underscores
+# A variable can't start with a digit
+# No space is allowed in variables
