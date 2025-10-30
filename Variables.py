@@ -1,5 +1,6 @@
 # A container for a value (Strings, Integers, Floats, Boolean) 
 # Ex: We store sugar in a jar, here "Jar" is a variable and "Sugar" is a value.
+# Always remember Python is case sensitive, "A" or "a" are both separate values.
 
 name = "Abdullah Arain"        # Here 'name' is a Variable and 'Abdullah Arain' is a Value.
 country = "Pakistan"           # Here 'country' is a Variable and 'Pakistan' is a Value.
@@ -26,3 +27,4 @@ val_ue = 1
 # A variable can only start with letters & underscores
 # A variable can't start with a digit
 # No space is allowed in variables
+
